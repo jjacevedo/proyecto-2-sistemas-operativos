@@ -12,7 +12,7 @@
 
 ## Calificación propuesta
 
-**9 / 10**
+**4.5 / 5**
 
 ## Justificación
 
