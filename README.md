@@ -110,3 +110,6 @@ Para salir de QEMU: `Ctrl+A` seguido de `X`.
 ## Declaración de uso de IA
 
 Se utilizaron herramientas de inteligencia artificial generativa (Claude) como apoyo en el proceso de implementación: exploración de la estructura del kernel, comprensión del mecanismo de syscalls y revisión de código. El diseño, la implementación y la comprensión conceptual son responsabilidad de los autores.
+## Demo
+
+https://youtu.be/SLuWqj8HiwE
