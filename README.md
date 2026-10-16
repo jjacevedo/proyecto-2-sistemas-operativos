@@ -6,6 +6,8 @@ Miguel Angel Marín,
 Sebastian Henao,
 
 ---
+Video: https://youtu.be/GJbc8njH8XQ
+---
 
 ## ¿Qué implementamos?
 
