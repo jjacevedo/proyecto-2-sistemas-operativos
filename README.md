@@ -1,9 +1,9 @@
 # Proyecto 2 — System Calls en xv6
 
 **Sistemas Operativos — Universidad EAFIT, Semestre 2026-2**  
-Juan José Acevedo Otálvaro 
-Miguel Angel Marín 
-Sebastian Henao
+Juan José Acevedo Otálvaro, 
+Miguel Angel Marín, 
+Sebastian Henao,
 
 ---
 
