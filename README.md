@@ -3,7 +3,7 @@
 **Sistemas Operativos — Universidad EAFIT, Semestre 2026-2**  
 Juan José Acevedo Otálvaro, 
 Miguel Angel Marín, 
-Sebastian Henao,
+Sebastian Henao
 
 ---
 Video: https://youtu.be/GJbc8njH8XQ
